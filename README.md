@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luciferviking
 - 👀 I’m interested in UI UX JS
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning PHP
 
 <!---
 Luciferviking/Luciferviking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
